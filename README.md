@@ -4,9 +4,9 @@
 ---
 ## Data Dictionary
 ---
-|Feature|Type|Dataset|Description|
+|Columns|Type|
 |---|---|---|---|
-|CRASH DATE|                        |object|
+|CRASH DATE|object|
 CRASH TIME                        object
 BOROUGH                           object
 ZIP CODE                          object
