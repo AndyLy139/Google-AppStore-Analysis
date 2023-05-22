@@ -37,6 +37,13 @@
 | VEHICLE TYPE CODE 5           | object  |
 
 # Analysis
+| BOROUGH       |   PEDESTRIAN_AFFECTED |   CYCLIST_AFFECTED |   MOTORIST_AFFECTED |
+|:--------------|----------------------:|-------------------:|--------------------:|
+| BROOKLYN      |                 23347 |              12767 |               77505 |
+| QUEENS        |                 16422 |               6457 |               67167 |
+| MANHATTAN     |                 16283 |               9115 |               24107 |
+| BRONX         |                 10676 |               3340 |               35784 |
+| STATEN ISLAND |                  1870 |                382 |               11548 |
 ---
 |   Hour |   Total Collisions |
 |-------:|-------------------:|
