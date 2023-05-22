@@ -5,7 +5,7 @@
 ## Data Dictionary
 ---
 |Columns|Type|
-|---|---|---|---|
+|---|---|
 |CRASH DATE|object|
 CRASH TIME                        object
 BOROUGH                           object
