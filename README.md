@@ -35,3 +35,14 @@
 | VEHICLE TYPE CODE 3           | object  |
 | VEHICLE TYPE CODE 4           | object  |
 | VEHICLE TYPE CODE 5           | object  |
+
+# Analysis
+---
+|   Hour |   Total Collisions |
+|-------:|-------------------:|
+|     16 |             144106 |
+|     17 |             140850 |
+|     14 |             133442 |
+|     15 |             124731 |
+|     18 |             123845 |
+---
